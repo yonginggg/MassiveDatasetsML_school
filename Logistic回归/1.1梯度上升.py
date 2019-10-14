@@ -10,7 +10,7 @@ fileNameStr = 'D:/Work/数据挖掘ML/Logistic回归/telco.csv'
 DataDF = pd.read_csv(fileNameStr,encoding = "utf-8")
 DataDF = DataDF.fillna(method='ffill')
 DataDF = DataDF.fillna(method='bfill')
-DataDF=DataDF.values
+DataDF = DataDF.values
 # print(DataDF.shape)
 DataX = DataDF[:,:-1]
 DataX = np.hstack([np.ones((len(DataX), 1)) , DataX])
@@ -43,6 +43,10 @@ def gradAscent(dataMatIn, classLabels):
     return weights
 
 w = gradAscent(DataX,DataY)
+print("梯度上升得到的值为:")
+print(w)
+
+# 验证命中率
 w = np.mat(w)
 DataX = np.mat(DataX)
 DataY = np.mat(DataY).T
@@ -53,9 +57,10 @@ loss = abs(DataY-sigmoid(DataX.dot(w)))
 # print(DataY.shape)
 count = 1
 for i in range(1000):
-    if loss[i ]-0<0.1:
+    if loss[i]-0<0.1:
         count+=1
 
 
-print(count/1000)
+# print(count/1000)
+# 0.757
 
