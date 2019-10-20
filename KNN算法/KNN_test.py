@@ -48,9 +48,13 @@ def KNN(inX, dataSet, labels, k):
 
 
 dataX,dataY = createDataSet()
+a = [0,0,1,1,1]
+print(type(a))
+print(type(dataX))
+print(type(dataY))
 first = KNN([0,0,1,1,1],dataX, dataY, 3)
-print(first)
-second = KNN([1,1,0,0,1],dataX, dataY, 3)
-print(second)
+# print(first)
+# second = KNN([1,1,0,0,1],dataX, dataY, 3)
+# print(second)
 
 
