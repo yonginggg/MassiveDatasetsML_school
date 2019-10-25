@@ -2,14 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2cc15b0-6bde-4f7c-ab7e-9c83f9c5eea5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/KNN算法/KNN_amazon.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KNN算法/KNN_cancer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KNN算法/logistic_cancer.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SVM/sklearn_SVM.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KNN算法/logistic_amazon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KNN算法/logistic_cancer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/决策树/sklearn决策树.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KNN算法/KNN_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/KNN算法/KNN_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KNN算法/实验4 KNN算法.doc" beforeDir="false" afterPath="$PROJECT_DIR$/KNN算法/实验4 KNN算法.doc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logistic回归/实验3 Logistic回归.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KNN算法/KNN_amazon.py" beforeDir="false" afterPath="$PROJECT_DIR$/KNN算法/KNN_amazon.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KNN算法/logistic_cancer.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/KNN算法/logistic_cancer.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KNN算法/实验4 KNN算法.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SVM/sklearn_SVM.py" beforeDir="false" afterPath="$PROJECT_DIR$/SVM/sklearn_SVM.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -63,29 +63,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.sklearn_SVM">
-    <configuration name="牛顿法" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="数据挖掘ML" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Logistic回归" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Logistic回归/牛顿法.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.sklearn决策树">
     <configuration name="KNN_amazon" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="数据挖掘ML" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -108,7 +86,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="KNN_cancer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="logistic_amazon" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="数据挖掘ML" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,7 +99,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/KNN算法/KNN_cancer.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/KNN算法/logistic_amazon.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -130,7 +108,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="KNN_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="logistic_cancer" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="数据挖掘ML" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -143,7 +121,29 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/KNN算法/KNN_test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/KNN算法/logistic_cancer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sklearn决策树" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="数据挖掘ML" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/决策树" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/决策树/sklearn决策树.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -176,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.sklearn决策树" />
+        <item itemvalue="Python.logistic_amazon" />
+        <item itemvalue="Python.logistic_cancer" />
         <item itemvalue="Python.sklearn_SVM" />
         <item itemvalue="Python.KNN_amazon" />
-        <item itemvalue="Python.KNN_cancer" />
-        <item itemvalue="Python.KNN_test" />
-        <item itemvalue="Python.牛顿法" />
       </list>
     </recent_temporary>
   </component>
@@ -213,6 +213,9 @@
       <workItem from="1571463104741" duration="52000" />
       <workItem from="1571494920101" duration="598000" />
       <workItem from="1571535954834" duration="125000" />
+      <workItem from="1571710802317" duration="1814000" />
+      <workItem from="1571885986643" duration="765000" />
+      <workItem from="1571894981708" duration="776000" />
     </task>
     <servers />
   </component>
@@ -249,10 +252,13 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ML$sklearn.coverage" NAME="sklearn决策树 Coverage Results" MODIFIED="1571895975722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/决策树" />
     <SUITE FILE_PATH="coverage/ML$.coverage" NAME="牛顿法 Coverage Results" MODIFIED="1570886298565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Logistic回归" />
     <SUITE FILE_PATH="coverage/ML$KNN_cancer.coverage" NAME="KNN_cancer Coverage Results" MODIFIED="1571272264425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KNN算法" />
     <SUITE FILE_PATH="coverage/ML$sklearn_SVM.coverage" NAME="sklearn_SVM Coverage Results" MODIFIED="1571536040897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SVM" />
+    <SUITE FILE_PATH="coverage/ML$logistic_cancer.coverage" NAME="logistic_cancer Coverage Results" MODIFIED="1571712997642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KNN算法" />
     <SUITE FILE_PATH="coverage/ML$KNN_test.coverage" NAME="KNN_test Coverage Results" MODIFIED="1571237439606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KNN算法" />
+    <SUITE FILE_PATH="coverage/ML$logistic_amazon.coverage" NAME="logistic_amazon Coverage Results" MODIFIED="1571713122245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KNN算法" />
     <SUITE FILE_PATH="coverage/ML$test.coverage" NAME="test Coverage Results" MODIFIED="1570692000886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KNN算法" />
     <SUITE FILE_PATH="coverage/ML$readFile.coverage" NAME="readFile Coverage Results" MODIFIED="1570590389519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Logistic回归" />
     <SUITE FILE_PATH="coverage/ML$KNN_amazon.coverage" NAME="KNN_amazon Coverage Results" MODIFIED="1571273876835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KNN算法" />

@@ -30,34 +30,34 @@ def KNN(inX, dataSet, labels, k):
     sortedClassCount = sorted(classCount.items(), key=operator.itemgetter(1), reverse=True)
     return sortedClassCount[0][0]
 
-cancer_X = getData("amazon_X.csv")
-cancer_Y = getData("amazon_Y.csv")
-cancer_Y = cancer_Y.tolist()
+amazon_X = getData("amazon_X.csv")
+amazon_Y = getData("amazon_Y.csv")
+amazon_Y = amazon_Y.tolist()
 # print(cancer_X.shape)
 # print(cancer_X[0])
 # print(type(cancer_X))
 # print(type(cancer_Y))
 # print(type(cancer_X[0,:].tolist()))
 pre = []
-for i in range(len(cancer_Y)):
-    a = KNN(cancer_X[i,:].tolist(),cancer_X, cancer_Y, 5)
+for i in range(len(amazon_Y)):
+    a = KNN(amazon_X[i, :].tolist(), amazon_X, amazon_Y, 5)
     pre.append(a)
 #
 # print(pre)
 # print(len(cancer_Y))
 true = []
-for i in range(len(cancer_Y)):
-    true.append(cancer_Y[i][0])
+for i in range(len(amazon_Y)):
+    true.append(amazon_Y[i][0])
 # print(b)
 loss = []
-for i in range(len(cancer_Y)):
+for i in range(len(amazon_Y)):
     loss.append(true[i]-pre[i])
 
 # print(loss)a
 
 count = 0
-for i in range(len(cancer_Y)):
+for i in range(len(amazon_Y)):
     if loss[i]==0:
         count+=1
 
-print(count/len(cancer_Y))
+print(count / len(amazon_Y))

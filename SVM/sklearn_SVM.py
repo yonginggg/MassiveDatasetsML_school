@@ -22,7 +22,7 @@ DataDF = getData("telco.csv")
 DataX = DataDF[:,:-1]
 DataY = DataDF[:,-1]
 
-clf = svm.SVC()
+clf = svm.SVC() 
 clf.fit(DataX,DataY)
 # print (clf.predict(DataX))
 
