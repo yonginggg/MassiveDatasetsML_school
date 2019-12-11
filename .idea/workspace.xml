@@ -2,15 +2,72 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2cc15b0-6bde-4f7c-ab7e-9c83f9c5eea5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/KNN算法/logistic_amazon.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KNN算法/logistic_cancer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/决策树/sklearn决策树.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KNN算法/.ipynb_checkpoints/KNN基础-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KNN算法/.ipynb_checkpoints/sklearn KNN-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KNN算法/KNN.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KNN算法/KNN_Clasifier_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KNN算法/KNN基础.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KNN算法/sklearn KNN.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SVM/31701084 许旺 实验5 支持向量机 .doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/决策树/.ipynb_checkpoints/sklearn 信息熵-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/决策树/.ipynb_checkpoints/信息熵可视化基础-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/决策树/.ipynb_checkpoints/根据信息熵寻找最优划分-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/决策树/31701055 杨煜升 实验6 决策树.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/决策树/sklearn 信息熵.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/决策树/信息熵可视化基础.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/决策树/决策树信息增益率.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/决策树/根据信息熵寻找最优划分.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/神经网络/.ipynb_checkpoints/test-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/神经网络/.ipynb_checkpoints/前馈神经网络-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/神经网络/.ipynb_checkpoints/前馈神经网络验证-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/神经网络/.ipynb_checkpoints/神经网络续-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/神经网络/31701055 杨煜升 实验7 神经网络.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/神经网络/31701055 杨煜升 实验8 神经网络续.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/神经网络/Theta1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/神经网络/Theta2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/神经网络/X_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/神经网络/debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/神经网络/test.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/神经网络/y_label.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/神经网络/前馈神经网络.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/神经网络/前馈神经网络.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/神经网络/前馈神经网络验证.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/神经网络/神经网络.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/神经网络/神经网络续.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/神经网络/神经网络续.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/神经网络/神经网络续2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/聚类续/.ipynb_checkpoints/DBSCAN-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/聚类续/.ipynb_checkpoints/dbscantest-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/聚类续/.ipynb_checkpoints/确定核心点, 边界点, 噪音点-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/聚类续/DBSCAN.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/聚类续/DBSCAN.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/聚类续/X_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/聚类续/dbscan_test.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/聚类续/dbscantest.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/聚类续/debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/聚类续/~$10 聚类续.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/聚类续/~WRL0005.tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/聚类续/实验10 聚类续.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/聚类续/确定核心点, 边界点, 噪音点.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/贝叶斯与聚类/.ipynb_checkpoints/kmeanspython-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/贝叶斯与聚类/.ipynb_checkpoints/kmeanstest-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/贝叶斯与聚类/.ipynb_checkpoints/朴素贝叶斯-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/贝叶斯与聚类/31701055 杨煜升 实验9 朴素贝叶斯网络与聚类.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/贝叶斯与聚类/City.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/贝叶斯与聚类/DRUG1n.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/贝叶斯与聚类/debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/贝叶斯与聚类/german_clean.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/贝叶斯与聚类/kmeanspython.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/贝叶斯与聚类/kmeanstest.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/贝叶斯与聚类/k均值.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/贝叶斯与聚类/k均值sklearn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/贝叶斯与聚类/testSet.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/贝叶斯与聚类/朴素贝叶斯.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/贝叶斯与聚类/朴素贝叶斯.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KNN算法/KNN_amazon.py" beforeDir="false" afterPath="$PROJECT_DIR$/KNN算法/KNN_amazon.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KNN算法/logistic_cancer.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/KNN算法/logistic_cancer.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KNN算法/实验4 KNN算法.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SVM/sklearn_SVM.py" beforeDir="false" afterPath="$PROJECT_DIR$/SVM/sklearn_SVM.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/决策树/sklearn决策树.py" beforeDir="false" afterPath="$PROJECT_DIR$/决策树/sklearn决策树.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/决策树/实验6 决策树.doc" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,6 +91,7 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="ignore_missing_gitignore" value="true" />
@@ -63,74 +121,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.sklearn决策树">
-    <configuration name="KNN_amazon" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="数据挖掘ML" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/KNN算法" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/KNN算法/KNN_amazon.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="logistic_amazon" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="数据挖掘ML" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/KNN算法" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/KNN算法/logistic_amazon.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="logistic_cancer" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="数据挖掘ML" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/KNN算法" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/KNN算法/logistic_cancer.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="sklearn决策树" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.DBSCAN">
+    <configuration name="决策树信息增益率" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="数据挖掘ML" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -143,7 +135,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/决策树/sklearn决策树.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/决策树/决策树信息增益率.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,7 +144,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sklearn_SVM" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="神经网络续2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="数据挖掘ML" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -160,12 +152,166 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SVM" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/神经网络" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SVM/sklearn_SVM.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/神经网络/神经网络续2" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="DBSCAN" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="数据挖掘ML" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/聚类续" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/聚类续/DBSCAN.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="KNN_Clasifier_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="数据挖掘ML" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/KNN算法" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/KNN算法/KNN_Clasifier_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="朴素贝叶斯" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="数据挖掘ML" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/贝叶斯与聚类" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/贝叶斯与聚类/朴素贝叶斯.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="神经网络续" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="数据挖掘ML" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/神经网络" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/神经网络/神经网络续.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="前馈神经网络" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="数据挖掘ML" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/神经网络" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/神经网络/前馈神经网络.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="神经网络" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="数据挖掘ML" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/神经网络" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/神经网络/神经网络.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="k均值" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="数据挖掘ML" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/贝叶斯与聚类" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/贝叶斯与聚类/k均值.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -176,11 +322,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.sklearn决策树" />
-        <item itemvalue="Python.logistic_amazon" />
-        <item itemvalue="Python.logistic_cancer" />
-        <item itemvalue="Python.sklearn_SVM" />
-        <item itemvalue="Python.KNN_amazon" />
+        <item itemvalue="Python.DBSCAN" />
+        <item itemvalue="Python.k均值" />
+        <item itemvalue="Python.神经网络续2" />
+        <item itemvalue="Python.KNN_Clasifier_test" />
+        <item itemvalue="Python.决策树信息增益率" />
       </list>
     </recent_temporary>
   </component>
@@ -216,6 +362,14 @@
       <workItem from="1571710802317" duration="1814000" />
       <workItem from="1571885986643" duration="765000" />
       <workItem from="1571894981708" duration="776000" />
+      <workItem from="1572146952148" duration="2909000" />
+      <workItem from="1572693784338" duration="2901000" />
+      <workItem from="1572853940700" duration="490000" />
+      <workItem from="1573029499280" duration="36000" />
+      <workItem from="1573815217547" duration="2149000" />
+      <workItem from="1574060945609" duration="3790000" />
+      <workItem from="1574162464460" duration="2505000" />
+      <workItem from="1574769483817" duration="815000" />
     </task>
     <servers />
   </component>
@@ -235,6 +389,9 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -252,16 +409,20 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/ML$sklearn.coverage" NAME="sklearn决策树 Coverage Results" MODIFIED="1571895975722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/决策树" />
-    <SUITE FILE_PATH="coverage/ML$.coverage" NAME="牛顿法 Coverage Results" MODIFIED="1570886298565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Logistic回归" />
     <SUITE FILE_PATH="coverage/ML$KNN_cancer.coverage" NAME="KNN_cancer Coverage Results" MODIFIED="1571272264425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KNN算法" />
-    <SUITE FILE_PATH="coverage/ML$sklearn_SVM.coverage" NAME="sklearn_SVM Coverage Results" MODIFIED="1571536040897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SVM" />
-    <SUITE FILE_PATH="coverage/ML$logistic_cancer.coverage" NAME="logistic_cancer Coverage Results" MODIFIED="1571712997642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KNN算法" />
-    <SUITE FILE_PATH="coverage/ML$KNN_test.coverage" NAME="KNN_test Coverage Results" MODIFIED="1571237439606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KNN算法" />
-    <SUITE FILE_PATH="coverage/ML$logistic_amazon.coverage" NAME="logistic_amazon Coverage Results" MODIFIED="1571713122245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KNN算法" />
+    <SUITE FILE_PATH="coverage/ML$2.coverage" NAME="神经网络续2 Coverage Results" MODIFIED="1573817617140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/神经网络" />
+    <SUITE FILE_PATH="coverage/ML$KNN_Clasifier_test.coverage" NAME="KNN_Clasifier_test Coverage Results" MODIFIED="1572697172638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KNN算法" />
+    <SUITE FILE_PATH="coverage/ML$k.coverage" NAME="k均值 Coverage Results" MODIFIED="1574166757142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/贝叶斯与聚类" />
+    <SUITE FILE_PATH="coverage/ML$DBSCAN.coverage" NAME="DBSCAN Coverage Results" MODIFIED="1574769627400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/聚类续" />
     <SUITE FILE_PATH="coverage/ML$test.coverage" NAME="test Coverage Results" MODIFIED="1570692000886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KNN算法" />
     <SUITE FILE_PATH="coverage/ML$readFile.coverage" NAME="readFile Coverage Results" MODIFIED="1570590389519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Logistic回归" />
     <SUITE FILE_PATH="coverage/ML$KNN_amazon.coverage" NAME="KNN_amazon Coverage Results" MODIFIED="1571273876835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KNN算法" />
     <SUITE FILE_PATH="coverage/ML$1_1.coverage" NAME="1.1梯度上升 Coverage Results" MODIFIED="1570881517719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Logistic回归" />
+    <SUITE FILE_PATH="coverage/ML$sklearn.coverage" NAME="sklearn决策树 Coverage Results" MODIFIED="1572147113138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/决策树" />
+    <SUITE FILE_PATH="coverage/ML$.coverage" NAME="朴素贝叶斯 Coverage Results" MODIFIED="1574061050538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/贝叶斯与聚类" />
+    <SUITE FILE_PATH="coverage/ML$sklearn_SVM.coverage" NAME="sklearn_SVM Coverage Results" MODIFIED="1571536040897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SVM" />
+    <SUITE FILE_PATH="coverage/ML$logistic_cancer.coverage" NAME="logistic_cancer Coverage Results" MODIFIED="1571712997642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KNN算法" />
+    <SUITE FILE_PATH="coverage/ML$KNN_test.coverage" NAME="KNN_test Coverage Results" MODIFIED="1571237439606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KNN算法" />
+    <SUITE FILE_PATH="coverage/ML$logistic_amazon.coverage" NAME="logistic_amazon Coverage Results" MODIFIED="1571713122245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KNN算法" />
   </component>
 </project>

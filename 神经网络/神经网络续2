@@ -1,0 +1,48 @@
+import pandas as pd
+import numpy as np
+
+def sigmoid(x):
+    return 1 / (1 + np.exp(-x))
+
+#计算Sigmoid函数的偏导数
+def sigmoid_derivative(x):
+    return x * (1 - x)
+
+def predictY(X, theta1, theta2):
+    # theta1
+    X = np.hstack([np.ones((len(X), 1)), X])
+    k = X.dot(theta1.T)
+    k = sigmoid(k)
+
+    # theta2
+    k = np.hstack([np.ones((len(k), 1)), k])
+    k = k.dot(theta2.T)
+
+    index = np.argmax(k, axis=1)
+    index = index + 1
+
+    return index
+
+
+X = pd.read_csv("X_data.csv",header=None)
+y = pd.read_csv("y_label.csv",header=None)
+y_2 = []
+for i in range(len(y)):
+    y_2.append(y[0][i])
+y = y_2
+y = np.array(y)
+# print(y.shape)
+
+np.random.seed(1)
+theta1 = np.random.randn(25,401)
+theta2 = np.random.randn(10, 26)
+result = predictY(X,theta1, theta2)
+
+error = y-result
+
+count = 0
+for i in range(len(error)):
+    if abs(error[i]-0)<0.1:
+        count+=1
+
+print(count/len(error))

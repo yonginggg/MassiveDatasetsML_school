@@ -13,10 +13,10 @@ data = pd.read_csv("german_clean.csv")
 
 data = data.values
 
-X_train = data[:-500,:-1]
-X_test = data[-500:,:-1]
-y_train = data[:-500,-1]
-y_test = data[-500:,-1]
+X_train = data[:-300,:-1]
+X_test = data[-300:,:-1]
+y_train = data[:-300,-1]
+y_test = data[-300:,-1]
 
 tree = DecisionTreeClassifier(random_state=0)
 tree.fit(X_train,y_train)
